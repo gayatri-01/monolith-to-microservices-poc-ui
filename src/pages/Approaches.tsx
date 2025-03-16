@@ -881,7 +881,7 @@ function ApproachCards() {
               <b>Pros:</b>
               <br />{" "}
             </p>
-            {approaches[selectedApproach].pros.map((step, index) => (
+            {approaches[selectedApproach].pros.map((step) => (
               <div>
                 <p>{step}</p>
               </div>
@@ -892,7 +892,7 @@ function ApproachCards() {
               <b>Cons:</b>
               <br />{" "}
             </p>
-            {approaches[selectedApproach].cons.map((step, index) => (
+            {approaches[selectedApproach].cons.map((step) => (
               <div>
                 <p>{step}</p>
               </div>
@@ -911,7 +911,7 @@ function ApproachCards() {
               <br />{" "}
             </p>
             {approaches[selectedApproach].enhancements.map(
-              (enhancement, index) => (
+              (enhancement) => (
                 <div>
                   <p>{enhancement}</p>
                 </div>
