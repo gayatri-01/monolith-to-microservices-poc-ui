@@ -438,7 +438,7 @@ function ApproachCards() {
               {selectedIndex + 1 === 4 && selectedApproach + 1 === 2 ? (
                 <div className="custom-div">
                   <b>Affinity Propagation Clustering</b> - Automatically
-                  clsuetrs by choosing the exemplars and then assigning the data
+                  clusters by choosing the exemplars and then assigning the data
                   points to the exemplars.
                   <br />
                   <br />
