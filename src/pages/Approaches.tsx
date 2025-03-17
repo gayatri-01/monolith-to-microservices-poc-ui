@@ -641,10 +641,10 @@ function ApproachCards() {
                   <br />
                   <ul>
                     <li>
-                      The embeddings will now be enhacned due to new edges
+                      The embeddings will now be enhanced due to new edges
                     </li>
                     <li>
-                      Relationship between resoruce-shared classes is weighed in
+                      Relationship between resource-shared classes is weighed in
                       more
                     </li>
                   </ul>
